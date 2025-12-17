@@ -6,7 +6,7 @@ A credit risk modeling project using supervised machine learning to identify hig
 - **Task:** Binary classification (default vs non-default)
 - **Data:** ~28.5K loan applications with borrower and credit features
 - **Challenge:** Severe class imbalance
-- **Focus:** Robust preprocessing and fair model comparison
+- **Focus:** Preprocessing and fair model comparison
 
 ## Approach
 - Cleaned and encoded numerical and categorical features
